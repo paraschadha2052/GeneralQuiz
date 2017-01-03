@@ -58,6 +58,13 @@
                     android:layout_height="wrap_content"
                     android:text="@string/q1op4" />
             </RadioGroup>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#757575"
+                android:layout_marginTop="8dp"/>
+
         </LinearLayout>
 
         <LinearLayout
@@ -103,6 +110,12 @@
                     android:layout_height="wrap_content"
                     android:text="@string/q2op4" />
             </RadioGroup>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#757575"
+                android:layout_marginTop="8dp"/>
         </LinearLayout>
 
         <LinearLayout
@@ -148,6 +161,12 @@
                     android:layout_height="wrap_content"
                     android:text="@string/q3op4" />
             </RadioGroup>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#757575"
+                android:layout_marginTop="8dp"/>
         </LinearLayout>
 
         <LinearLayout
@@ -193,6 +212,12 @@
                     android:layout_height="wrap_content"
                     android:text="@string/q4op4" />
             </RadioGroup>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#757575"
+                android:layout_marginTop="8dp"/>
         </LinearLayout>
 
         <LinearLayout
@@ -238,6 +263,12 @@
                     android:layout_height="wrap_content"
                     android:text="@string/q5op4" />
             </RadioGroup>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#757575"
+                android:layout_marginTop="8dp"/>
         </LinearLayout>
 
         <RelativeLayout
@@ -255,6 +286,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:background="@color/colorPrimary"
+                    android:textColor="#FFFFFF"
                     android:onClick="submit"
                     android:text="Submit" />
 
@@ -263,6 +295,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="8dp"
                     android:background="@color/colorPrimary"
+                    android:textColor="#FFFFFF"
                     android:onClick="reset"
                     android:text="Reset" />
 
