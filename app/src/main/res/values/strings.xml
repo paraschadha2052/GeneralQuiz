@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">General Quiz</string>
+
+    <string name="q1">Q1. Which committee has submitted report on promoting digital payments to the Union Government?</string>
+    <string name="q1op1">Vinod Rai committee</string>
+    <string name="q1op2">Ajit Seth committee</string>
+    <string name="q1op3">H R Khan committee</string>
+    <string name="q1op4">Ratan Watal committee</string>
+
+    <string name="q2">Q2. “BHIM” mobile app has been launched by Union Government to make digital payments easier. What does “BHIM” stands for?</string>
+    <string name="q2op1">Build Interface for Money</string>
+    <string name="q2op2">Built-up Interface for Money</string>
+    <string name="q2op3">Bi-aural Interface for Money</string>
+    <string name="q2op4">Bharat Interface for Money</string>
+
+    <string name="q3">Q3. Who was the first Muslim President of Indian National Congress?</string>
+    <string name="q3op1">Hakim Azmal Khan</string>
+    <string name="q3op2">Abul Kalam Azad</string>
+    <string name="q3op3">Rafi Ahmad Kidwai</string>
+    <string name="q3op4">Badruddin Taiyabji</string>
+
+    <string name="q4">Q4. Which country has won the Sultan Azlan Shah Cup for the year 2016?</string>
+    <string name="q4op1">India</string>
+    <string name="q4op2">Australia</string>
+    <string name="q4op3">New Zealand</string>
+    <string name="q4op4">Pakistan</string>
+
+    <string name="q5">Q5. Hanukkh, the festival of light is associated with which one of the following religions?</string>
+    <string name="q5op1">Hindu</string>
+    <string name="q5op2">Jewish</string>
+    <string name="q5op3">Jain</string>
+    <string name="q5op4">Christians</string>
+</resources>
