@@ -1,4 +1,4 @@
-# GeneralQuiz
+# General Quiz
 A general quiz app containing mcq questions
 
 
